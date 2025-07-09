@@ -64,7 +64,9 @@ AI-Dungeon-Master/
 ├── requirements.txt              # Dependencies
 ├── README.md                     # This file
 ├── LICENSE                       # MIT License
-└── AIDM CODE.ipynb               # Optional dev notebook
+├── AIDM CODE.ipynb               # Optional dev notebook
+└── screenshots/                  # Demo screenshots
+    └── demo.png
 ```
 
 ---
@@ -82,16 +84,7 @@ AI-Dungeon-Master/
 
 ## 📸 Screenshots
 
-> *(Optional section)* — Add screenshots like below:
-
-```
-screenshots/
-└── demo.png
-```
-
-```markdown
 ![Demo](screenshots/demo.png)
-```
 
 ---
 
