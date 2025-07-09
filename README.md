@@ -66,7 +66,10 @@ AI-Dungeon-Master/
 ├── LICENSE                       # MIT License
 ├── AIDM CODE.ipynb               # Optional dev notebook
 └── screenshots/                  # Demo screenshots
-    └── demo.png
+    ├── demo-preview.png
+    ├── code-snippet-1.png
+    ├── code-snippet-2.png
+    └── code-snippet-3.png
 ```
 
 ---
@@ -84,7 +87,17 @@ AI-Dungeon-Master/
 
 ## 📸 Screenshots
 
-![Demo](screenshots/demo.png)
+### 🔍 App Preview
+
+![Preview](screenshots/demo-preview.png)
+
+### 🧾 Code Snippets
+
+<p float="left">
+  <img src="screenshots/code-snippet-1.png" width="32%">
+  <img src="screenshots/code-snippet-2.png" width="32%">
+  <img src="screenshots/code-snippet-3.png" width="32%">
+</p>
 
 ---
 
