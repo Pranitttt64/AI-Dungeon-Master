@@ -3,6 +3,10 @@
   <a href="#-try-it-locally"><img alt="Run Locally" src="https://img.shields.io/badge/-Run_Locally-brightgreen?style=for-the-badge"></a>
   <a href="#-tech-stack"><img alt="Tech Stack" src="https://img.shields.io/badge/-Tech_Stack-yellow?style=for-the-badge"></a>
   <a href="#-license"><img alt="License" src="https://img.shields.io/badge/-MIT_License-lightgrey?style=for-the-badge"></a>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img alt="HuggingFace" src="https://img.shields.io/badge/🤗-Transformers-yellow?style=for-the-badge">
+  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
 </p>
 
 # 🧙‍♂️ AI Dungeon Master
@@ -76,7 +80,20 @@ AI-Dungeon-Master/
 
 ---
 
+## 📸 Screenshots
 
+> *(Optional section)* — Add screenshots like below:
+
+```
+screenshots/
+└── demo.png
+```
+
+```markdown
+![Demo](screenshots/demo.png)
+```
+
+---
 
 ## 📜 License
 
